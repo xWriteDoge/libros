@@ -1,0 +1,9 @@
+div.row:nth-child(even) div:first-of-type{
+    background-color: #999999;
+    color: white;
+}
+
+div.row:nth-child(odd) div:first-of-type{
+    background-color: #cccccc;
+    color: black;
+}
